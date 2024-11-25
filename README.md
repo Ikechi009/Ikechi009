@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ikechi009
+- 👋 Hi, I’m @Ikechi
 - 👀 I’m interested in becoming one of the sought after Data Analysts
 - 🌱 I’m currently learning Data Analysis with SkilHarvest Academy
 - 💞️ I’m looking to collaborate on projects with brilliant minds in the nearest future
